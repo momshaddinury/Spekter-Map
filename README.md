@@ -1,7 +1,6 @@
 # Spekter_Map
  
-### A simple application that uses 'google_maps_flutter' package to show show Google map. 
-### This also tracks users location and places a marker.
+### A simple application that uses 'google_maps_flutter' package to show show Google map. This also tracks users location and places a marker.
 
 ### Functionality:
 
@@ -11,7 +10,7 @@
 - Change Map Type Button
 - On Tap of Marker Shows InfoWindow with users Lat Lon.
 
-### How to guide:
+### How to guide: [Source][medium]
 
 The first step is to add the Google Maps Flutter plugin as a dependency in the pubspec.yaml file. The package is available as google_maps_flutter on pub.dartlang.org.
 
@@ -84,4 +83,4 @@ Scaffold(
 ```
 
 [Get Api Key]: https://developers.google.com/maps/documentation/android-sdk/get-api-key
-
+[medium]: https://medium.com/flutter/google-maps-and-flutter-cfb330f9a245
