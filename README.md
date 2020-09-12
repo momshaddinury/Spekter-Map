@@ -10,6 +10,10 @@
 - Change Map Type Button
 - On Tap of Marker Shows InfoWindow with users Lat Lon.
 
+### Preview:
+
+![Preview](https://github.com/dinurymomshad/Spekter-Map/blob/master/assets/Screenshot_1599909994.png)
+
 ### How to guide: [Source][medium]
 
 The first step is to add the Google Maps Flutter plugin as a dependency in the pubspec.yaml file. The package is available as google_maps_flutter on pub.dartlang.org.
