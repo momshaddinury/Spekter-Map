@@ -11,8 +11,7 @@
 - On Tap of Marker Shows InfoWindow with users Lat Lon.
 
 ### Preview:
-
-![Preview](https://github.com/dinurymomshad/Spekter-Map/blob/master/assets/Screenshot_1599909994.png)
+<img width="270" height="480" src="https://github.com/dinurymomshad/Spekter-Map/blob/master/assets/Screenshot_1599909994.png" />
 
 ### How to guide: [Source][medium]
 
